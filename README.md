@@ -1,3 +1,2 @@
-clone git
-npm install --> node modules
-npm run dev -> output.css
+## 🚀 Quy trình triển khai nhanh
+Clone Git ➜ npm install ➜ npm run dev ➜ Có file output.css
